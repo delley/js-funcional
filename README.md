@@ -34,4 +34,4 @@ Canal com os vídeos [https://www.youtube.com/c/webschool-io](https://www.youtub
 
 [JavaScript The Right Way](http://jstherightway.org/pt-br/)
 
-[MDN - Closures](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Closures){:target="_blank"}
+[MDN - Closures](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Closures)
