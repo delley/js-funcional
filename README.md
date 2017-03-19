@@ -2,7 +2,7 @@
 Estudos sobre programação funcional com JavaScript
 
 ### Funções de Primeira-Classe (First-class function)
-Funções são objetos de primeira classe, elas podem ter propriedades e métodos como qualquer outro objeto. O que difere as funções dos outros objetos é o fato de poderem ser chamadas/executadas.
+Em JavaScript, funções são objetos de primeira classe, elas podem ter propriedades e métodos como qualquer outro objeto. O que difere as funções dos outros objetos é o fato de poderem ser chamadas/executadas.
 
 ```js
 var twice = function (x) {console.log(2*x);};  
