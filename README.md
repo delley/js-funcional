@@ -21,7 +21,9 @@ function inject(f, x){
 
 ### Referências
 [WebSchool.io: Workshop JS Funcional Free](https://github.com/Webschool-io/workshop-js-funcional-free)
+
 [WebSchool.io: Canal no Youtube](https://www.youtube.com/c/webschool-io)
+
 [MDN - Funções](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions)
 
 [O Poder das JavaScript Functions](http://programadorobjetivo.co/javascript-functions/)
