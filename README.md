@@ -18,6 +18,9 @@ function inject(f, x){
   return f(f(x));
 }
 ```
+### Closures
+
+
 
 ### Referências
 [WebSchool.io: Workshop JS Funcional Free](https://github.com/Webschool-io/workshop-js-funcional-free)
